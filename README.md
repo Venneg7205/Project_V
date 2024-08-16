@@ -12,3 +12,8 @@
     pip install google-generativeai
 ```
  
+```
+cd frontend
+npm install
+npm run dev
+```
